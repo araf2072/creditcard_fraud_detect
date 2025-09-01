@@ -117,10 +117,3 @@ print("Accuracy on Training data ",test_data_accuracy)
 
 <hr>
 
-## Contributor : [Ankit Nainwal](https://github.com/nano-bot01)
-
-### Other Models 
- * [Fake News Prediction System](https://github.com/nano-bot01/Fake-News-Prediction-System-)
- * [Heart Disease Prediction System based on Logistic Regression](https://github.com/nano-bot01/Heart-Disease-Prediction-System-using-Logistic-Regression)
-
-## Please ⭐⭐⭐⭐⭐ 
